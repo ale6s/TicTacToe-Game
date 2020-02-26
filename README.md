@@ -1,6 +1,5 @@
 # TicTacToe-Game
-
-# How to run the project:
+Simple TicTacToe Game using JavaX
 # Requirements:
 Java runtime installed
 
